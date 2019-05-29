@@ -1,4 +1,4 @@
-owner=413660639668731914
+owner=518040402910117908
 prefix=7
 game=7play|#X.
 stayinchannel=false
